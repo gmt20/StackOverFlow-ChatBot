@@ -13,3 +13,5 @@ For this binary classification problem, Logistic Regression algorithm was used.
 The  tag prediction task in the bot involved identifying the language about which the user is asking the question. This task of Multi Class Classification was acheived using OneVsRestClassifier wrapper over LogisticRegression
 
 For a chit-chat mode we will use a pre-trained neural network engine available from ChatterBot
+
+
