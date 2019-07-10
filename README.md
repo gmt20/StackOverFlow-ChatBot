@@ -14,6 +14,8 @@ The  tag prediction task in the bot involved identifying the language about whic
 
 For a chit-chat mode we will use a pre-trained neural network engine available from ChatterBot.
 
+The screen shots for the bot are attacjed below.
+
 ![alt text](https://github.com/gmt20/StackOverFlow_bot/blob/master/Screenshot_20190710-121348.png)
 ![alt text](https://github.com/gmt20/StackOverFlow_bot/blob/master/Screenshot_20190710-121444.png)
 
