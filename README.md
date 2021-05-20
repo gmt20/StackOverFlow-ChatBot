@@ -2,7 +2,7 @@
 This is a dialogue chat bot which I created as a part of Natural Language Processing course by HSE at Coursera. This bot was hosted on Amazon Web Services and was peer reviewed.
 
 
-The Sttackbot(as I named it) is able to:
+The Sttackbot is able to:
 1) find the relevant answer thread to programming-related questions (using StackOverflow dataset);
 2) chit-chat and simulate dialogue on all non programming-related questions.
 
